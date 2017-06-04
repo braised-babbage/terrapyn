@@ -1,0 +1,2 @@
+* Coding Style
+- all demo code in "turtle passing style"
